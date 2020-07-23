@@ -1,16 +1,21 @@
 ### Hi there 👋
+#### I’m Trung Do Quang
 
-<!--
-**17021084/17021084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently interning on VTI corp 
+- 🌱 I’m currently learning Java Spring 
+- 🧰 I’m currently intersting in Ansible  
+- 📫 How to reach me: dotrunghg1999@gmail.com
+- ⚡ Fun fact: My user name is my student idetify number  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+### 皆さんへようこそ　👋
+#### 私はド。クアン。チュンと申します。
+
+##### 私は：　
+- 🔭 現在にはVTIでインターンしてみます。
+- 🌱 現在にはJAVAspringを勉強しました。
+- 🧰 現在にはアンシブルを関心しています。
+- 📫 私のメールアドレス: dotrunghg1999@gmail.com
+- ⚡ 楽しい事実: ギットハプのユーザーは私の学生番号です。 
