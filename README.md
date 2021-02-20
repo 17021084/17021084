@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=17021084&label=Profile%20views&color=0e75b6&style=flat" alt="17021084" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=17021084" alt="17021084" /></a> </p>
 
 - 📫 How to reach me **dotrunghg1999@gmail.com**
 
@@ -15,6 +14,7 @@
  <a href="https://sass-lang.com" target="_blank"> <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/ubuntu-512.png" alt="docker" width="40" height="40"/> </a> 
  <a href="https://sass-lang.com" target="_blank"> <img src="https://iconarchive.com/download/i91752/icons8/windows-8/Systems-Mac-Os.ico" alt="mac" width="40" height="40"/> </a> 
  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/vbd904f2719533e871e3800dda1bebc56aa0bc95c3c9d01c4d7cebcf129bdf26c/firebase/images/touchicon-180.png" alt="firebase" width="40" height="40"/> </a>
 
 </p>
 
